@@ -1,10 +1,10 @@
 {
-  "latest_version": "1.0.0",
+  "latest_version": "2.0.1",
   "min_required_version": "2.0",
-  "release_notes": "Test Update",
+  "release_notes": "",
   "archive": {
-    "url": "https://diamosupdates.github.io/releases/update-1.0.0.zip",
-    "sha256": "be9fecc57824f30018101f27cf9e7f25bb98e36e1e03d16211c9b431a41316e7",
+    "url": "https://diamosupdates.github.io/releases/update-2.0.1.zip",
+    "sha256": "09ce8bca8744a51ebf3f8783e8d739c7f78af7c006863202ac79714d2ff8f868",
     "size_bytes": 2564426
   }
 }
